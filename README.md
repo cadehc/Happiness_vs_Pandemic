@@ -8,6 +8,8 @@
 
 ## Links to Data Used:
 
+[Our World in Data](https://ourworldindata.org/coronavirus-source-data)
+
 [data/un_govt.csv](https://github.com/Kpearson72/Happiness_vs_Pandemic/blob/0364f71e33ed2828100394c87af5b1b81d71e3ee/data/un_govt.csv)
 
 [data/world_happiness.csv](https://github.com/Kpearson72/Happiness_vs_Pandemic/blob/0364f71e33ed2828100394c87af5b1b81d71e3ee/data/world_happiness.csv)
@@ -194,5 +196,3 @@ Vietnam,
 Yemen,
 Zambia,
 Zimbabwe
-
-
